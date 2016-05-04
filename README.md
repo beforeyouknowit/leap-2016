@@ -42,12 +42,13 @@ _Began at about 11:45 AM PST._
 - Dragged audio file to timeline as timing anchor; I have assumed that this is the master "pace" of the edit.
 - Copied (Early Lesson 5) intro video (from boardroom / Hussein on camera introducing the Lesson) into new Lesson 5 project timeline.
 
-### (Edited/assembled Lesson 5 preliminary edit.)
+### Edited/assembled Lesson 5 preliminary edit. Runtime 19m50s.
 
 ![Lesson 05 preliminary edit screenshot](./img/lesson05-preliminary-edit.png)
 
 - Some sections of Hussein's audio don't yet have accompanying slides, have left them blank for now; will follow up with Alex on these missing slides (or ask to make decisions about removing Hussein's additional content, etc) once the preview is available for his review.
-- Rendered 540p preview copy of entire 19m50s Lesson 5 edit via Compressor, shared in [#lep_content](https://launchacademy.slack.com/messages/lep_content/) channel on the [Launch Academy Slack](http://launchacademy.slack.com/) board. (Will take a while to upload the ~238MB video file.)
+- Rendered 540p preview copy of entire Lesson 5 edit via Compressor, shared in [#lep_content](https://launchacademy.slack.com/messages/lep_content/) channel on the [Launch Academy Slack](http://launchacademy.slack.com/) board. (Will take a while to upload the ~238MB video file.)
+- Consolidated preview video into project folder on SSD.
 
 _Went off the clock at about 1:25 PM PST._
 
@@ -66,15 +67,43 @@ _Resumed working on project at about 7:45 PM PST._
 - As before, dragged Hussein's audio file into FCPX project space and onto L06 timeline, assuming this is the "master" pace of the edit.
 - Added in L05 intro content (front boardroom / Hussein on camera.)
 
-### (Edited/assembled Lesson 6 preliminary edit.)
+### Edited/assembled Lesson 6 preliminary edit. Runtime: 21m12s.
 
 ![Lesson 06 preliminary edit screenshot](./img/lesson06-preliminary-edit.png)
 
 - A few missing slides and extra audio; massive production value-adds available through mini animations, edits, pacing, etc.
-- Rendered 540p preview copy of entire 21m12s Lesson 5 edit via Compressor, shared in [#lep_content](https://launchacademy.slack.com/messages/lep_content/) channel on the [Launch Academy Slack](http://launchacademy.slack.com/) board. (Will take a while to upload the ~279MB video file.)
+- Rendered 540p preview copy of entire Lesson 6 edit via Compressor, shared in [#lep_content](https://launchacademy.slack.com/messages/lep_content/) channel on the [Launch Academy Slack](http://launchacademy.slack.com/) board. (Will take a while to upload the ~279MB video file.)
+- Consolidated preview video into project folder on SSD.
 - Alex updated the Lesson 5 and Lesson 6 keynote decks in Dropbox; will have to update him on the workflow for integrating those changes.
 
 _Went off the clock at about 8:45 PM PST._
 
 ---
 
+### Weds May 4th 2016
+_Began at about 1:20 PM PST._
+
+# Lesson 7 early edit
+
+- Duplicated `May 2016 - L05` and renamed to `May 2016 - L06` in FCPX.
+- Cleared out duplicated timeline, other than introductory slide.
+- Opened `SSD\` to create `May 2016 - LEAP Lesson 7\` folder and copy in assets from Dropbox shared folder.
+- Copied in files, renamed to follow convention.
+- Opened Lesson 7 keynote file to review deck; 21 slides shown.
+- Exported all keynote slides into `exported deck` folder to follow convention; resulted in 30 individual build frames as total output.
+- Added Hussein's audio file into FCPX project space and onto L07 timeline, assuming this is the "master" pace of the edit.
+- Added in L06 intro content (front boardroom / Hussein on camera.)
+
+### Edited/assembled Lesson 7 preliminary edit. Runtime: 18m27s.
+
+![Lesson 07 preliminary edit screenshot](./img/lesson07-preliminary-edit.png)
+
+- A few missing slides again, lots of room for more granular slide builds and improvements; additional logos from companies mentioned, etc.
+- Hussein added a lot in audio to several slides; might be good for Alex to review slide content and/or update as necessary.
+- Rendered 540p preview copy of entire Lesson 7 edit via Compressor, shared in [#lep_content](https://launchacademy.slack.com/messages/lep_content/) channel on the [Launch Academy Slack](http://launchacademy.slack.com/) board.
+- Consolidated preview video into project folder on SSD.
+- Notified team on Slack and requested review.
+
+_Went off the clock at about 2:12 PM PST._
+
+---
