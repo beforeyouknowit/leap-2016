@@ -150,7 +150,8 @@ and i think we’ll need to add additional recording from Hussein to talk about 
 but everything else looks good!
 ```
 
-- Opened FCPX project space and opened Lesson 5 edit.
+- Opened FCPX project space.
+- **Lesson 5 opened.**
 - Resized slide `5.032` starting at `08:37:04` from `08:49:18` to `09:03:18` to fill up blank space.
 - Resized slide `5.036` starting at `09:30:25` from `09:59:20` to `10:12:08` to fill up blank space.
 - Resized slide `5.038` starting at `10:37:25` from `10:57:16` to `11:16:06` to fill up blank space.
@@ -165,8 +166,56 @@ but everything else looks good!
 - Moved preview video onto SSD, renamed to follow previous convention, i.e. `Lesson 05 Preview 2.mov` for now.
 - Shared `Lesson 05 Preview 2.mov` on the [#lep_content](https://launchacademy.slack.com/messages/lep_content/) channel on the [Launch Academy Slack](http://launchacademy.slack.com/) board.
 
-
 _Went off the clock at about 6:50 PM PST._
 
+---
+
+_Resumed working on project at about 8:15 PM PST._
+
+- Copied split section of Lesson 5 into `May 2016 - L05 Part 1` Project in FCPX.
+- Shared to Compressor, to prepare H.264 compressed copy, ready for Thinkific upload.
+
+![Compressor app info screenshot](./img/compressor-info.png)
+
+- Created Compressor preset called "HD1080p for Thinkific" and exported a Compressor droplet (converstion app with preset built in) onto the SSD.
+- Compressor settings for Thinkific preparation are as follows:
+
+![Compressor settings for Thinkific output](./img/compressor-thinkific-settings.png)
+
+- Began Compressor batch job with Lesson 5 Part 1.
+- Returned to FCPX to resume episode module creation.
+- Split Lesson 5 Part 2 and 3 into respective Projects; sent both to Compressor with same preset as above.
+- Compressor now working in Batch mode; has all 3 Parts to complete.
+- Resumed editing in FCPX in the mean time, as per Alex' feedback and notes.
+- **Lesson 6 opened.**
+- Replaced broken introduction video (front boardroom / Hussein shown on screen) with correct Lesson 6 introduction, edited timing to hide trailing intro and outro.
+- Resized slide `6.004` starting at `01:07:21` from `01:17:21` to `01:27:15` to fill up blank space.
+- Resized slide `6.007` starting at `02:39:21` from `02:54:20` to `03:05:23` to fill up blank space.
+- Compressor finished, moved transcoded output video files onto SSD under the `~ Completed Edited, Master Files, and Uploads` folder.
+- Resumed editing Lesson 6 in FCPX.
+- Resized slide `6.026` starting at `09:53:04` from `10:01:26` to `10:17:28` to fill up blank space.
+- Resized slide `6.028` starting at `10:37:29` from `11:00:29` to `11:10:06` to fill up blank space.
+- Resized slide `6.030` starting at `11:35:19` from `11:46:06` to `12:12:04` to fill up blank space.
+- Resized slide `6.047` starting at `17:19:26` from `17:25:08` to `17:31:23` to fill up blank space.
+- Resized slide `6.050` starting at `17:54:07` from `18:07:15` to `18:25:21` to fill up blank space.
+- Reviewed edit and added cross dissolve transitions between slides.
+- Copied L06 Part 1 into new Project, sent timeline from that segment to Compressor with previous settings.
+- Copied L06 Part 2 into new Project, sent timeline from that segment to Compressor with previous settings.
+- Ran Compressor batch, has 2 Parts to complete.
+- **Lesson 7 opened.**
+- Resized slide `7.006` starting at `01:45:09` from `02:01:18` to `02:02:22` to fill up blank space.
+- Resized slide `7.008` starting at `02:02:22` from `02:17:05` to `02:25:06` to fill up blank space.
+- As per Alex' request, moved "What is an MVP?" slide (number `7.004`) to `01:14:18` and resized previous slide (`7.003`) to fill up blank space.
+- Created break/cut in long Lesson 7 edit at the "High Fidelity Tests" introduction slide; Lesson is now available to split into two modules/parts.
+- Reviewed edit and added cross dissolve transitions between slides.
+- Copied L07 Part 1 into new Project, sent timeline from that segment to Compressor with previous settings.
+- Copied L07 Part 2 into new Project, sent timeline from that segment to Compressor with previous settings.
+- Ran Compressor batch, has 2 Parts to complete.
+- Moved transcoded output video files for L06 Part 1 + 2 onto SSD.
+- Compressor completed, moved transcoded output video files for L07 Part 1 + 2 onto SSD.
+- Reviewed output video files on SSD; everything is looking great. 
+- Need to confer with Alex about next steps in edit, signing off for now.
+
+_Went off the clock at about 9:26 PM PST._
 
 ---
