@@ -107,3 +107,66 @@ _Began at about 1:20 PM PST._
 _Went off the clock at about 2:12 PM PST._
 
 ---
+
+### Sun May 8th 2016
+_Began at about 6:20 PM PST._
+
+# Lesson 5-6-7 edit updates
+
+- Caught up on Alex' feedback notes via Slack:
+
+```
+----- May 4th -----
+alexchuang72 [5:01] 
+so I just finished reviewing lesson 5, looks great so far
+
+[5:02] 
+for the black screens, i would just use the previous slide
+
+[5:02] 
+don’t think they would need additional verbose slides
+
+[5:06] 
+oh it seems like session 5 intro was used for session 6
+
+
+----- May 5th -----
+alexchuang72 [2:47 PM] 
+session 6 looks good as well besides the intro part
+
+[2:47] 
+please use previous slides for the black screens
+
+alexchuang72 [9:02 PM] 
+just reviewed lesson 7
+
+[9:04] 
+can we start the“What is a MVP” slide at 1:15
+
+[9:04] 
+and i think we’ll need to add additional recording from Hussein to talk about the homework at the end
+
+[9:05] 
+but everything else looks good!
+```
+
+- Opened FCPX project space and opened Lesson 5 edit.
+- Resized slide `5.032` starting at `08:37:04` from `08:49:18` to `09:03:18` to fill up blank space.
+- Resized slide `5.036` starting at `09:30:25` from `09:59:20` to `10:12:08` to fill up blank space.
+- Resized slide `5.038` starting at `10:37:25` from `10:57:16` to `11:16:06` to fill up blank space.
+- Resized slide `5.043` starting at `12:14:20` from `12:37:07` to `12:53:22` to fill up blank space.
+- Resized slide `5.054` starting at `16:30:05` from `16:50:22` to `17:03:23` to fill up blank space.
+- Resized slide `5.058` starting at `17:39:21` from `18:20:14` to `18:25:25` to fill up blank space.
+- Resized slide `5.062` starting at `18:55:24` from `19:10:22` to `19:27:04` to fill up blank space.
+- Reviewed edit and added cross dissolve transitions between slides.
+- Episode 5 edit is now `19:44:25` long.
+- Rendered all transitions to timeline.
+- Sent preview copy to Compressor with same (Large 540p) settings as previous preview outputs.
+- Moved preview video onto SSD, renamed to follow previous convention, i.e. `Lesson 05 Preview 2.mov` for now.
+- Shared `Lesson 05 Preview 2.mov` on the [#lep_content](https://launchacademy.slack.com/messages/lep_content/) channel on the [Launch Academy Slack](http://launchacademy.slack.com/) board.
+
+
+_Went off the clock at about 6:50 PM PST._
+
+
+---
