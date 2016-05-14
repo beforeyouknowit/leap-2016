@@ -219,3 +219,106 @@ _Resumed working on project at about 8:15 PM PST._
 _Went off the clock at about 9:26 PM PST._
 
 ---
+
+### Mon May 9th 2016
+_Began at about 9:55 AM PST._
+
+# Lesson 5-6-7 Delivery
+
+- Alex has requested that I deliver the output video files via Dropbox; copying from SSD to local Dropbox folder and allowing Dropbox to perform deliver/sync.
+- Dropbox has to sync 2.354GB of content for this delivery, will take several hours, but will work in the background.
+
+_Went off the clock at about 10:00 AM PST._
+
+---
+
+### Thurs May 12th 2016
+_Began at about 3:48 PM PST._
+
+- Resumed project on Lesson 8 & 9 slide deck review in preparation for edit.
+- Created `May 2016 - LEAP Lesson 8` folder on `SSD/` and copied Keynote file and AIFF audio file from ALex' shared Dropbox folder.
+- Renamed audio file to fit with previous convention.
+- Opened FCPX and created `May 2016 - L08` Project.
+- Opened Keynote deck, reviewed slides: 33 slides total, upon export, resulted in 33 .PNG image files.
+- Copied intro slide into `L08` Project and discovered a problem; **we do not yet have Lesson 8 or 9 introduction clips**, i.e. Hussein talking to the camera in the Front Boardroom! Notified Alex via Slack immediately.
+- Continued with edit. Using the audio file as the "master" for the pace of the edited slides.
+
+### Edited Lesson 8 preliminary edit. Runtime: 18:42:26.
+
+_Paused work momentarily at 4:29 PM._ 
+
+_Resumed work at 4:35 PM._
+
+- Exported preview render (540p) via Compressor.
+- Moved preview render file into `SSD\May 2016 - LEAP Lesson 8\May 2016 - L08-preview.mov`
+- Chatted with Alex on Slack; arranged video pickup shoot for next Weds at LA.
+- Sent L08-preview to Slack channel.
+- Continued on with Lesson 9 preliminary edit.
+- Created `SSD\May 2016 - LEAP Lesson 9` folder and copied Keynote deck and audio file from Dropbox folder, renamed appropriately.
+- Opened Keynote deck, reviewed slide: 59 slides total, upon export, resulted in 62 .PNG image files.
+- Began new FCPX Project called `May 2016 - L09` and began with editing.
+- Using the audio file as the "master" for the pace of the edited slides.
+
+### Edited Lesson 9 preliminary edit began.
+
+_Paused work momentarily at 5:18 PM._
+
+_Resumed work at 5:24 PM._
+
+_Stopped work at 5:36 PM._
+
+---
+
+### Sat May 14th 2016
+_Began at about 10:52 AM PST._
+
+- Resumed Lesson 9 preliminary edit.
+- Alex requested improvement to audio take on L09 audio track, noise gate added but reverb tail on Hussein's audio take unavoidable in source material.
+
+### Lesson 9 preliminary edit completed; Runtime: 24:29:12.
+
+- As before, exported preview render (540p) via Compressor.
+- Moved preview render file into `SSD\May 2016 - LEAP Lesson 9\May 2016 - L09-preview.mov`
+- Sent preview video to #lep_content channel on Slack.
+
+### Resumed review on Early Lesson edits (1 throuth 4) to check continuity and branding.
+
+- Opened L01P01 in FCPX.
+- "LEP" branding on first slide, opened and updated to LEAP branding.
+- L01P01 review complete, sent to Compressor, rendering in HD1080p for Thinkific upload.
+- Opened L01P02 in FCPX.
+- Fixed L01P02 LEP branding on first slide.
+- L01P02 review complete, sent to Compressor, rendering in HD1080p for Thinkific upload.
+- Opened L01P03 in FCPX.
+- Fixed LEP branding on first and last slide.
+- L01P03 review complete, sent to Compressor, rendering in HD1080p for Thinkific upload.
+- Opened L02 in FCPX.
+- Fixed LEP branding on last slide.
+- L02 review complete.
+- Opened separate L02P01 and L02P02 segments, sent to Compressor, rendering in HD1080p for Thinkific upload.
+- Opened L03 in FCPX.
+- Here's how the multi-part "advanced" early edits look like on the timeline:
+
+![Screenshot of Lesson 3 edit in FCPX.](./img/lesson03-segments.png)
+
+- Problems discovered with some of the outro frames in L03P02 and L03P03, just the 'space shuttle' image shown, not the LEAP branding image; had to re-export the L03 Keynote deck to grab these frames.
+- L03P01, L03P02, and L03P03 reviewed, sent to Compressor, rendering in HD1080p for Thinkific upload.
+- Here's how the batch job looks in Compressor:
+
+![Screenshot of Lesson 3 batch conversion in Compressor.](./img/lesson03-batch-compression.png)
+
+
+- Opened L04 in FCPX.
+- L04P01 missing slide cross dissolves; added them in.
+- Discovered duplicated and misnamed content, dropped error and realigned; now Lesson 4 spans modules 1 through 7:
+	- Understanding the Problem
+	- The Five Whys
+	- Conducting Problem Interviews
+	- Interview Script Breakdown
+	- Your Problem Statement
+	- Competitive Analysis
+	- Vitamins vs Painkillers
+- Re-rendered all modules in Lesson 4 via Compressor.
+- Completed review on older edited work; updated Alex on Slack.
+- Need Alex' feedback on L08 and L09 edits prior to splitting into separate modules and rendering in HD1080p for Thinkific upload.
+- Almost ready for delivery!
