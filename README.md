@@ -322,3 +322,8 @@ _Began at about 10:52 AM PST._
 - Completed review on older edited work; updated Alex on Slack.
 - Need Alex' feedback on L08 and L09 edits prior to splitting into separate modules and rendering in HD1080p for Thinkific upload.
 - Almost ready for delivery!
+- Created an AWS S3 bucket for final delivery, purchased Transmit (Mac app for S3 upload) and began uploading all Lesson segments (ready for Thinkific upload) other than Lesson 8 and 9, which are still pending review with Alex.
+
+__Went off the clock at about 12:57 PM PST while uploads continue.__
+
+---
