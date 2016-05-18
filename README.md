@@ -327,3 +327,45 @@ _Began at about 10:52 AM PST._
 __Went off the clock at about 12:57 PM PST while uploads continue.__
 
 ---
+
+### Weds May 18th 2016
+_Video filming (pickup intro content for Lesson 8 & 9) at Launch Academy, scheduled for and began at 1:00 PM PST._
+
+- Alex and Hussein are both running late, will be available from 1:30 PM-ish onwards; I was scheduled from 1:00 PM and thus on the clock from then.
+- Hussein breifly visited the Front Boardroom where I am waiting, at about 1:05 PM, to ask if I had anything to setup, I explained that I didn't bring my video lights, that the idea was to keep it as "MVP" as possible in line with Alex' previously-stated requirements, etc.
+- Caught up on notes and checked FCPX project files for existing take duration and lighting conditions, etc.
+
+# Filmed pickup intros from ~1:35 PM to 1:55 PM.
+
+- Wrapped shoot and meeting with Alex just before 2 PM, resumed edit work at 2 PM sharp.
+- Imported videos from my iPhone, put away camera gimbal stabilizer.
+- Reviewed takes and labeled appropriately, following previous take handling convention from Dec 31st shoot.
+- Edited L08 intro into place, reviewed previous editing and added cross-dissolve transitions between slides, to follow convention and branding.
+
+### Lesson 8 preliminary edit completed; Runtime: 19:10:15.
+
+- Sent Lesson 8 to Compressor for 540p preview and Alex' review.
+- Still to do with Lesson 8: split into part 1 and 2 (roughly 10 mins each) and send to Compressor to convert to HD1080p for Thinkific output.
+- Continued on to Lesson 9.
+- As per requested again, added noise gate and channel EQ to each audio segment in Lesson 9 to try to clear up reverb tail and background/fan noise.
+- Reviewed previous editing and added cross-dissolve transitions between slides, to follow convention and branding.
+
+### Lesson 9 preliminary edit completed; Runtime: 25:27:19.
+
+- Sent Lesson 9 to Compressor for 540p preview and Alex' review.
+- Moved L08p2 and L09p2 to SSD, sent L08p2 to Slack.
+- Reparked my car.
+- Sent L09p2 to Slack.
+- Created `May 2016 - L10 Conclusion` project in FCPX.
+- Edited together newly-shot video and added a lower-thirds short URL placeholder, to be supplied by Alex soon.
+
+### Lesson 10 (conclusion) preliminary edit completed; Runtime: 1:37:25.
+
+- Sent Lesson 10 conclusion preview in 540p to Slack for Alex' review.
+- Moved Lesson 10 preview to SSD.
+- Next steps; wait for Alex' reviews and feedback, make appropriate editing changes, split L08 and L09 into respective parts, render for HD1080p Thinkific upload, share to S3 bucket, update Alex for download availability.
+- Updated these notes on Github repo.
+
+_Went off the lock at about 3:20 PM PST._
+
+---
