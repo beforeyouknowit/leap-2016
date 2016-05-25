@@ -395,3 +395,24 @@ _Resumed work at about 2:45 PM PST._
 - Rendered Lesson 10 (conclusion) without burnt-in resource document short URL, also delivered via S3 bucket.
 
 _Went off the clock at about 5:15 PM PST._
+
+---
+
+# Time Tracking & Hourly Breakdown
+
+### May 1st 2016 to May 24th 2016
+
+date | start | finish | duration | total
+--- | --- | --- | --- | ---
+Tue, May 3rd | 11:45 AM | 1:15 PM | 1h30m
+Tue, May 3rd | 7:45 PM | 9:00 PM | 1h15m | 2h45m
+Wed, May 4th | 1:15 PM | 2:15 PM | 1h00m | 1h00m
+Sun, May 8th | 6:15 PM | 6:45 PM | 0h30m
+Sun, May 8th | 8:15 PM | 9:30 PM | 1h15m | 1h45m
+Thu, May 12th | 3:45 PM | 5:30 PM | 1h45m | 1h45m
+Sat, May 14th | 11:00 AM | 1:00 PM | 2h00m | 2h00m
+Wed, May 18th | 1:00 PM | 2:45 PM | 1h45m
+Wed, May 18th | 3:00 PM | 3:15 PM | 0h15m | 2h00m
+Tue, May 24th | 11:00 AM | 2:00 PM | 3h00m
+Tue, May 24th | 4:00 PM | 5:15 PM | 1h15m | 4h15m
+- | - | - | **Grand total:** | **15h30m**
