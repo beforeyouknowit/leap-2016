@@ -311,13 +311,13 @@ _Began at about 10:52 AM PST._
 - Opened L04 in FCPX.
 - L04P01 missing slide cross dissolves; added them in.
 - Discovered duplicated and misnamed content, dropped error and realigned; now Lesson 4 spans modules 1 through 7:
-	- Understanding the Problem
-	- The Five Whys
-	- Conducting Problem Interviews
-	- Interview Script Breakdown
-	- Your Problem Statement
-	- Competitive Analysis
-	- Vitamins vs Painkillers
+    - Understanding the Problem
+    - The Five Whys
+    - Conducting Problem Interviews
+    - Interview Script Breakdown
+    - Your Problem Statement
+    - Competitive Analysis
+    - Vitamins vs Painkillers
 - Re-rendered all modules in Lesson 4 via Compressor.
 - Completed review on older edited work; updated Alex on Slack.
 - Need Alex' feedback on L08 and L09 edits prior to splitting into separate modules and rendering in HD1080p for Thinkific upload.
@@ -369,3 +369,29 @@ _Video filming (pickup intro content for Lesson 8 & 9) at Launch Academy, schedu
 _Went off the lock at about 3:20 PM PST._
 
 ---
+
+### Tues May 24th 2016
+_Began at about 11:00 AM PST._
+
+###Final Lesson 9 edit and delivery, working from home office/studio.
+
+- Downloaded Hussein's Lesson 9 audio recording from Slack, moved onto SSD into appropriate folder.
+- Renamed file from `Session 9 Rerecorded.aiff` to `LEAP - Lesson 9 take 2.aiff`.
+- Opened FCPX and began to redo the edit.
+
+# Lesson 9 redo edit completed.
+
+- Split Lesson 9 into two parts, aligned with first exercise.
+- Created L09 Part 1 and L09 Part 2 in FCPX project space, copied clips in and sent each to Compressor.
+- Created L08 Part 1 and L08 Part 2 in FCPX project space, copied clips in and sent each to Compressor.
+- (Began Compressor batch at about 12:58 PM.)
+
+_Went off the clock at about 1:00 PM PST._
+
+_Resumed work at about 2:45 PM PST._
+
+### Lesson upload & delivery via S3
+
+- Rendered Lesson 10 (conclusion) without burnt-in resource document short URL, also delivered via S3 bucket.
+
+_Went off the clock at about 5:15 PM PST._
